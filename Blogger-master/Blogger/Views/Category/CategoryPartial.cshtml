@@ -1,0 +1,12 @@
+﻿@model IEnumerable <Blogger.Models.Category>
+<ul class="list-group">
+
+
+    @foreach (var item in Model)
+    {
+
+        <li>@Html.ActionLink(@item.CategoryName, "GetPostbyCategory", "Home", new {  @CategoryId = item.CategoryId,@class= "llist-group-item" }, null)</li>
+
+    }
+</ul>
+

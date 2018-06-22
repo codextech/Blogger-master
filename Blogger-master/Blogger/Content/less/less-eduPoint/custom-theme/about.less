@@ -1,0 +1,47 @@
+/*
+ * courese.less
+ * -----------------------------------------------
+*/
+.about-thumb img {
+	border-radius: 3%;
+}
+
+.newcomer {
+  position: relative;
+  overflow: hidden;
+}
+.newcomer img {
+  transition: all 500ms ease 0s;
+}
+
+.newcomer-overlay {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: rgba(1, 0, 1, 0.6);
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  transition: all 400ms ease-in-out 0s;
+}
+.newcomer-overlay::before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.newcomer-inner {
+    color: @white;
+    display: inline-block;
+    /* padding: 20px 0; */
+    text-align: center;
+    vertical-align: middle;    
+    width: 98%;
+}
+.form-boxshadow {
+  -moz-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+}

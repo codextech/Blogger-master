@@ -1,0 +1,47 @@
+﻿@model Blogger.Models.PostDetail
+
+@{
+    ViewBag.Title = "GetDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetDetails</h2>
+
+<div>
+    <h4>PostDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dd>
+            <img src="@Url.Content(Model.FeaturedImage)" height="100" width="100" id="imagePreview" />
+        </dd>
+       
+
+        <dd>
+            @Html.Raw( Model.Post_Content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Create_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Create_time)
+        </dd>
+
+       
+
+        
+
+       
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,35 @@
+﻿@model List<Blogger.Models.PostDetail>
+
+@{
+    ViewBag.title = "Home page";
+<link href = "~/Content/Site.css" rel ="stylesheet"/>
+}
+<ul class="gigs">
+@foreach (var post in Model)
+{
+    <li>
+
+        <div class="details">
+            <span  class="artist">
+                <img src="@Url.Content(post.FeaturedImage)" height="100" width="100"/>
+                @Html.ActionLink(@post.Title, "GetDetails", "Home", new {@PostId = post.PostId}, null)
+
+
+
+            </span>
+            <span class="genre">
+                @if (User.IsInRole("canManagePost"))
+                {
+                    @Html.ActionLink("Edit", "Edit", "Post", new {@PostId = post.PostId}, null)
+                }
+            </span>
+
+
+        </div>
+    </li>
+}
+
+
+
+
+</ul>

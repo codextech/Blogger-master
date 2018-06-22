@@ -1,0 +1,493 @@
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\ApplicationInsights.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Blogger.dll.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Blogger.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Blogger.pdb
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csc.exe
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csc.exe.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csc.rsp
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csi.exe
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csi.exe.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\csi.rsp
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.AppContext.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Collections.Immutable.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Console.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.IO.Compression.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.IO.Pipes.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.AccessControl.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Claims.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Threading.Thread.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.ValueTuple.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Xml.XPath.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\vbc.exe
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\vbc.exe.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\vbc.rsp
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe.config
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Antlr3.Runtime.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\EntityFramework.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\EntityFramework.SqlServer.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.Web.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.WindowsServer.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.ApplicationInsights.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Google.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Web.Infrastructure.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Newtonsoft.Json.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Owin.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Helpers.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Mvc.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Optimization.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Razor.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.Deployment.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.Razor.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\WebGrease.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Helpers.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Mvc.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Optimization.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.Razor.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.Deployment.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\System.Web.WebPages.Razor.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Antlr3.Runtime.pdb
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Newtonsoft.Json.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\EntityFramework.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\EntityFramework.SqlServer.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Google.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.ApplicationInsights.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.WindowsServer.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\bin\Microsoft.AI.Web.xml
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.csprojResolveAssemblyReference.cache
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.dll
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.pdb
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.Migrations.initial.resources
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.csproj.GenerateResource.cache
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.Migrations.addingPostandCategoryTable.resources
+c:\users\fayyaz ahmad\source\repos\Blogger\Blogger\obj\Debug\Blogger.Migrations.seedingserWithRole.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\ApplicationInsights.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Blogger.dll.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Blogger.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Blogger.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csc.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csc.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csc.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csi.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csi.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\csi.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Console.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Threading.Thread.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\vbc.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\vbc.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\EntityFramework.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.Web.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Helpers.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Mvc.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Optimization.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Razor.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\WebGrease.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Helpers.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Mvc.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Optimization.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.Razor.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\EntityFramework.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\bin\Microsoft.AI.Web.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.csprojResolveAssemblyReference.cache
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.Migrations.initial.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.Migrations.addingPostandCategoryTable.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.Migrations.seedingserWithRole.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.csproj.GenerateResource.Cache
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-20180615T202757Z-001\Blogger\Blogger\obj\Debug\Blogger.pdb
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\ApplicationInsights.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Blogger.dll.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Blogger.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Blogger.pdb
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csc.exe
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csi.exe
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Threading.Thread.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\EntityFramework.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.Web.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Owin.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\WebGrease.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\EntityFramework.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\bin\Microsoft.AI.Web.xml
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.csprojResolveAssemblyReference.cache
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.initial.resources
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.addingPostandCategoryTable.resources
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.seedingserWithRole.resources
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.csproj.GenerateResource.cache
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\fayyaz ahmad\Downloads\Compressed\Blogger-master_2\Blogger-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\ApplicationInsights.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Blogger.dll.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Blogger.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Blogger.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csc.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csi.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Threading.Thread.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\EntityFramework.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.Web.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Owin.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\WebGrease.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\EntityFramework.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\bin\Microsoft.AI.Web.xml
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.csprojResolveAssemblyReference.cache
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.initial.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.addingPostandCategoryTable.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.seedingserWithRole.resources
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.csproj.GenerateResource.Cache
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\tanze\Downloads\Compressed\Blogger-master-20180619T211601Z-001\Blogger-master\Blogger\obj\Debug\Blogger.Migrations.uservremove.resources

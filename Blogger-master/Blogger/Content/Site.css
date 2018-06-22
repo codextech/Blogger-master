@@ -1,0 +1,133 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+body {
+    padding-top: 90px;
+    font-size: 17px;
+}
+
+.navbar-inverse {
+    background-color: #4267B2;
+    border-color: #4267B2;
+}
+
+    .navbar-inverse .navbar-brand {
+        color:white;
+    }
+
+  
+
+span.field-validation-error {
+    color: red;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    height: 40px;
+    font-size: 15px;
+    padding: 6px 10px;
+    -ms-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.btn {
+    /*padding: 7px 20px;*/
+    -ms-border-radius: 9px;
+    border-radius: 9px;
+    /*font-size: 17px;*/
+}
+a {
+   
+    text-decoration: none;
+}
+
+
+.navbar .container .top ul li {
+   
+    float: left;
+    padding: 0 15px;
+    height: 30px;
+    list-style: none;
+}
+
+    .navbar .container .top ul li a {
+        
+        text-decoration: none;
+        
+        font-size: 17px;
+       
+    }
+.gigs > li {
+    position: relative;
+    margin-bottom: 100px;
+   
+}
+
+.gigs .details {
+    position: absolute;
+    top: 0;
+    left: 70px;
+}
+
+
+
+.gigs .details .artist {
+    color: black;
+    font-weight: bold;
+    display: block;
+}
+.gigs .details .artist a {
+    color:black;
+}
+       
+
+.gigs .details .genre {
+    font-size: 14px;
+}
+
+
+
+
+
+
+   

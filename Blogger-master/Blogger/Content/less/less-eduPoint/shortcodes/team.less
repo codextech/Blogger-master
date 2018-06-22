@@ -1,0 +1,34 @@
+/*
+ * Shortcode: teams.less
+ * -----------------------------------------------
+*/
+.team-member .thumb {
+  position: relative;
+  overflow: hidden;
+}
+.team-member .thumb img {
+  .transition(all 300ms ease-in-out 0s);
+}
+.team-member:hover .thumb img {
+  transform: scale(1.1);
+}
+.team-member .thumb .info {
+  bottom: -50px;
+  position: absolute;
+  .transition(all 300ms ease-in-out 0s);
+  width: 100%;
+}
+.team-member:hover .thumb .info {
+  bottom: 0;
+}
+
+.dl-horizontal.doctor-info dt {
+  color: #333333;
+  font-size: 14px;
+  width: auto;
+}
+@media only screen and (max-width: 767px) {
+  .dl-horizontal.doctor-info dt {
+    margin-bottom: 10px;
+  }
+}

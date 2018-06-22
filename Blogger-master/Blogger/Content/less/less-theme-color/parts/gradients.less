@@ -1,0 +1,274 @@
+/*
+ *  Gradients BG+BGTransparent Color
+ * -----------------------------------------------
+*/
+
+.gradient-vertical (@startColor: #eee, @endColor: white) {
+  background-color: @startColor;
+  background: -webkit-gradient(linear, left top, left bottom, from(@startColor), to(@endColor));
+  background: -webkit-linear-gradient(top, @startColor, @endColor);
+  background: -moz-linear-gradient(top, @startColor, @endColor);
+  background: -ms-linear-gradient(top, @startColor, @endColor);
+  background: -o-linear-gradient(top, @startColor, @endColor);
+}
+.gradient-horizontal (@startColor: #eee, @endColor: white) {
+  background: @startColor;
+  background: -webkit-gradient(linear, left top, right top, from(@startColor), to(@endColor));
+  background: -webkit-linear-gradient(left, @startColor, @endColor);
+  background: -moz-linear-gradient(left, @startColor, @endColor);
+  background: -ms-linear-gradient(left, @startColor, @endColor);
+  background: -o-linear-gradient(left, @startColor, @endColor);
+}
+
+
+/* Gradient BG Colors */
+.bg-theme-colored-gradient {
+  .gradient-vertical(darken(@theme-color, 10%), lighten(@theme-color, 20%));
+}
+.bg-theme-colored-gradient-horizontal {
+  .gradient-horizontal(darken(@theme-color, 10%), lighten(@theme-color, 20%));
+}
+
+.bg-theme-colored2-gradient {
+  .gradient-vertical(darken(@theme-color2, 10%), lighten(@theme-color2, 20%));
+}
+.bg-theme-colored2-gradient-horizontal {
+  .gradient-horizontal(darken(@theme-color2, 10%), lighten(@theme-color2, 20%));
+}
+
+.bg-theme-colored12-gradient {
+  .gradient-vertical(@theme-color, @theme-color2);
+}
+.bg-theme-colored12-gradient-horizontal {
+  .gradient-horizontal(@theme-color, @theme-color2);
+}
+
+.bg-theme-colored21-gradient {
+  .gradient-vertical(@theme-color2, @theme-color);
+}
+.bg-theme-colored21-gradient-horizontal {
+  .gradient-horizontal(@theme-color2, @theme-color);
+}
+
+
+/* -------- layer overlay gradient Color1 ---------- */
+.layer-overlay {
+ &.overlay-theme-colored-gradient {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,90%), fade(lighten(@theme-color, 20%),90%))
+   }
+ }
+ &.overlay-theme-colored-gradient-1 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,10%), fade(lighten(@theme-color, 20%),10%))
+   }
+ }
+ &.overlay-theme-colored-gradient-2 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,20%), fade(lighten(@theme-color, 20%),20%))
+   }
+ }
+ &.overlay-theme-colored-gradient-3 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,30%), fade(lighten(@theme-color, 20%),30%))
+   }
+ }
+ &.overlay-theme-colored-gradient-4 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,40%), fade(lighten(@theme-color, 20%),40%))
+   }
+ }
+ &.overlay-theme-colored-gradient-5 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,50%), fade(lighten(@theme-color, 20%),50%))
+   }
+ }
+ &.overlay-theme-colored-gradient-6 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,60%), fade(lighten(@theme-color, 20%),60%))
+   }
+ }
+ &.overlay-theme-colored-gradient-7 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,70%), fade(lighten(@theme-color, 20%),70%))
+   }
+ }
+ &.overlay-theme-colored-gradient-8 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,80%), fade(lighten(@theme-color, 20%),80%))
+   }
+ }
+ &.overlay-theme-colored-gradient-9 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,90%), fade(lighten(@theme-color, 20%),90%))
+   }
+ }
+}
+
+
+
+/* -------- layer overlay gradient Color2 ---------- */
+.layer-overlay {
+ &.overlay-theme-colored2-gradient {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,90%), fade(lighten(@theme-color2, 20%),90%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-1 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,10%), fade(lighten(@theme-color2, 20%),10%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-2 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,20%), fade(lighten(@theme-color2, 20%),20%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-3 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,30%), fade(lighten(@theme-color2, 20%),30%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-4 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,40%), fade(lighten(@theme-color2, 20%),40%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-5 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,50%), fade(lighten(@theme-color2, 20%),50%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-6 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,60%), fade(lighten(@theme-color2, 20%),60%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-7 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,70%), fade(lighten(@theme-color2, 20%),70%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-8 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,80%), fade(lighten(@theme-color2, 20%),80%))
+   }
+ }
+ &.overlay-theme-colored2-gradient-9 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,90%), fade(lighten(@theme-color2, 20%),90%))
+   }
+ }
+}
+
+
+
+/* -------- layer overlay gradient Color Combined 12 ---------- */
+.layer-overlay {
+ &.overlay-theme-colored12-gradient {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,90%), fade(@theme-color2,90%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-1 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,10%), fade(@theme-color2,10%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-2 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,20%), fade(@theme-color2,20%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-3 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,30%), fade(@theme-color2,30%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-4 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,40%), fade(@theme-color2,40%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-5 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,50%), fade(@theme-color2,50%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-6 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,60%), fade(@theme-color2,60%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-7 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,70%), fade(@theme-color2,70%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-8 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,80%), fade(@theme-color2,80%))
+   }
+ }
+ &.overlay-theme-colored12-gradient-9 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color,90%), fade(@theme-color2,90%))
+   }
+ }
+}
+
+
+
+/* -------- layer overlay gradient Color Combined 21 ---------- */
+.layer-overlay {
+ &.overlay-theme-colored21-gradient {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,90%), fade(@theme-color,90%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-1 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,10%), fade(@theme-color,10%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-2 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,20%), fade(@theme-color,20%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-3 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,30%), fade(@theme-color,30%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-4 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,40%), fade(@theme-color,40%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-5 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,50%), fade(@theme-color,50%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-6 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,60%), fade(@theme-color,60%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-7 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,70%), fade(@theme-color,70%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-8 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,80%), fade(@theme-color,80%))
+   }
+ }
+ &.overlay-theme-colored21-gradient-9 {
+   &::before {
+     .gradient-horizontal(fade(@theme-color2,90%), fade(@theme-color,90%))
+   }
+ }
+}

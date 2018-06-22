@@ -1,0 +1,186 @@
+/*
+ *  Gradients BG+BGTransparent Color
+ * -----------------------------------------------
+*/
+
+// Helper
+._linear-gradient-prefixes(@deg, @start, @end){
+  background-image: -webkit-linear-gradient(@deg, @start, @end);
+  background-image:    -moz-linear-gradient(@deg, @start, @end);
+  background-image:      -o-linear-gradient(@deg, @start, @end);
+  background-image:     -ms-linear-gradient(@deg, @start, @end);
+}
+// Core
+.linear-gradient(@_, @start, @end){
+  background-color: mix(@start, @end, 50%);
+}
+.linear-gradient(@_, @start, @end) when (isnumber(@_)){
+  @deg: @_ + 0deg;
+  @legacy-deg: @deg - 90deg;
+  ._linear-gradient-prefixes(@legacy-deg, @start, @end);
+  background-image: linear-gradient(@deg, @start, @end);
+}
+.linear-gradient(to-bottom, @start, @end){
+  filter: e(%("progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=%d, endColorstr=%d)", @start, @end));
+  -ms-filter: e(%("'progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=%d, endColorstr=%d)'", @start, @end));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(@start),to(@end));
+  ._linear-gradient-prefixes(top, @start, @end);
+  background-image: linear-gradient(to bottom, @start, @end);
+}
+.linear-gradient(to-top, @start, @end){
+  filter: e(%("progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=%d, endColorstr=%d)", @end, @start));
+  -ms-filter: e(%("'progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=%d, endColorstr=%d)'", @end, @start));
+  background-image: -webkit-gradient(linear, left bottom, left top, from(@start),to(@end));
+  ._linear-gradient-prefixes(bottom, @start, @end);
+  background-image: linear-gradient(to top, @start, @end);
+}
+.linear-gradient(to-right, @start, @end){
+  filter: e(%("progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=%d, endColorstr=%d)", @start, @end));
+  -ms-filter: e(%("'progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=%d, endColorstr=%d)'", @start, @end));
+  background-image: -webkit-gradient(linear, left top, right top, from(@start),to(@end));
+  ._linear-gradient-prefixes(left, @start, @end);
+  background-image: linear-gradient(to right, @start, @end);
+}
+.linear-gradient(to-left, @start, @end){
+  filter: e(%("progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=%d, endColorstr=%d)", @end, @start));
+  -ms-filter: e(%("'progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr=%d, endColorstr=%d)'", @end, @start));
+  background-image: -webkit-gradient(linear, right top, left top, from(@start),to(@end));
+  ._linear-gradient-prefixes(right, @start, @end);
+  background-image: linear-gradient(to left, @start, @end);
+}
+
+
+/* Gradient BG Colors */
+.bg-theme-colored-gradient {
+  .linear-gradient(to-left, @theme-color, @white);
+
+  &.gradient-to-top    { .linear-gradient(to-top, @theme-color, @white) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, @theme-color, @white) }
+  &.gradient-to-right  { .linear-gradient(to-right, @theme-color, @white) }
+  &.gradient-to-left   { .linear-gradient(to-left, @theme-color, @white) }
+  &.gradient-deg       { .linear-gradient(45, @theme-color, @white) }
+}
+
+.bg-theme-colored2-gradient {
+  .linear-gradient(to-left, @theme-color2, @white);
+
+  &.gradient-to-top    { .linear-gradient(to-top, @theme-color2, @white) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, @theme-color2, @white) }
+  &.gradient-to-right  { .linear-gradient(to-right, @theme-color2, @white) }
+  &.gradient-to-left   { .linear-gradient(to-left, @theme-color2, @white) }
+  &.gradient-deg       { .linear-gradient(45, @theme-color2, @white) }
+}
+
+.bg-theme-colored12-gradient {
+  .linear-gradient(to-left, @theme-color, @theme-color2);
+
+  &.gradient-to-top    { .linear-gradient(to-top, @theme-color, @theme-color2) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, @theme-color, @theme-color2) }
+  &.gradient-to-right  { .linear-gradient(to-right, @theme-color, @theme-color2) }
+  &.gradient-to-left   { .linear-gradient(to-left, @theme-color, @theme-color2) }
+  &.gradient-deg       { .linear-gradient(45, @theme-color, @theme-color2) }
+}
+
+.bg-theme-colored21-gradient {
+  .linear-gradient(to-left, @theme-color2, @theme-color);
+
+  &.gradient-to-top    { .linear-gradient(to-top, @theme-color2, @theme-color) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, @theme-color2, @theme-color) }
+  &.gradient-to-right  { .linear-gradient(to-right, @theme-color2, @theme-color) }
+  &.gradient-to-left   { .linear-gradient(to-left, @theme-color2, @theme-color) }
+  &.gradient-deg       { .linear-gradient(45, @theme-color2, @theme-color) }
+}
+
+/* Gradient Transparent BG Colors */
+.bg-theme-colored-gradient-transparent {
+  .linear-gradient(to-left, fade(@theme-color,90%), fade(@white,90%));
+
+  &.gradient-to-top    { .linear-gradient(to-top, fade(@theme-color,90%), fade(@white,90%)) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, fade(@theme-color,90%), fade(@white,90%)) }
+  &.gradient-to-right  { .linear-gradient(to-right, fade(@theme-color,90%), fade(@white,90%)) }
+  &.gradient-to-left   { .linear-gradient(to-left, fade(@theme-color,90%), fade(@white,90%)) }
+  &.gradient-deg       { .linear-gradient(45, fade(@theme-color,90%), fade(@white,90%)) }
+}
+.bg-theme-colored2-gradient-transparent {
+  .linear-gradient(to-left, fade(@theme-color2,90%), fade(@white,90%));
+
+  &.gradient-to-top    { .linear-gradient(to-top, fade(@theme-color2,90%), fade(@white,90%)) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, fade(@theme-color2,90%), fade(@white,90%)) }
+  &.gradient-to-right  { .linear-gradient(to-right, fade(@theme-color2,90%), fade(@white,90%)) }
+  &.gradient-to-left   { .linear-gradient(to-left, fade(@theme-color2,90%), fade(@white,90%)) }
+  &.gradient-deg       { .linear-gradient(45, fade(@theme-color2,90%), fade(@white,90%)) }
+}
+.bg-theme-colored12-gradient-transparent {
+  .linear-gradient(to-left, fade(@theme-color,90%), fade(@theme-color2,90%));
+
+  &.gradient-to-top    { .linear-gradient(to-top, fade(@theme-color,90%), fade(@theme-color2,90%)) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, fade(@theme-color,90%), fade(@theme-color2,90%)) }
+  &.gradient-to-right  { .linear-gradient(to-right, fade(@theme-color,90%), fade(@theme-color2,90%)) }
+  &.gradient-to-left   { .linear-gradient(to-left, fade(@theme-color,90%), fade(@theme-color2,90%)) }
+  &.gradient-deg       { .linear-gradient(45, fade(@theme-color,90%), fade(@theme-color2,90%)) }
+}
+.bg-theme-colored21-gradient-transparent {
+  .linear-gradient(to-left, fade(@theme-color2,90%), fade(@theme-color,90%));
+
+  &.gradient-to-top    { .linear-gradient(to-top, fade(@theme-color2,90%), fade(@theme-color,90%)) }
+  &.gradient-to-bottom { .linear-gradient(to-bottom, fade(@theme-color2,90%), fade(@theme-color,90%)) }
+  &.gradient-to-right  { .linear-gradient(to-right, fade(@theme-color2,90%), fade(@theme-color,90%)) }
+  &.gradient-to-left   { .linear-gradient(to-left, fade(@theme-color2,90%), fade(@theme-color,90%)) }
+  &.gradient-deg       { .linear-gradient(45, fade(@theme-color2,90%), fade(@theme-color,90%)) }
+}
+
+
+/* -------- layer overlay gradient Color ---------- */
+.layer-overlay {
+  /* .overlay-theme-colored12-gradient */
+  &.overlay-theme-colored12-gradient {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,90%), fade(@theme-color2,90%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-1 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,10%), fade(@theme-color2,10%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-2 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,20%), fade(@theme-color2,20%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-3 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,30%), fade(@theme-color2,30%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-4 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,40%), fade(@theme-color2,40%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-5 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,50%), fade(@theme-color2,50%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-6 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,60%), fade(@theme-color2,60%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-7 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,70%), fade(@theme-color2,70%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-8 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,80%), fade(@theme-color2,80%))
+    }
+  }
+  &.overlay-theme-colored12-gradient-9 {
+    &::before {
+      .linear-gradient(to-top, fade(@theme-color,90%), fade(@theme-color2,90%))
+    }
+  }
+}
